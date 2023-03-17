@@ -32,7 +32,7 @@ html{
     }
     img{
         width: 50%;
-    object-fit: cover;
+    object-fit:fill;
     }
     section{
     box-sizing: border-box;
