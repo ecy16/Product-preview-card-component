@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
 html{
     font-size: 62.5%;
-    font-family: [Montserrat];
+    font-family: 'Montserrat',sans-serif;
      font-weight: 500;
 }
 *{
@@ -25,7 +27,7 @@ html{
      width: 375px;
      height: 275px;
      background-color: rgb(252, 249, 249);
-     font-family: [Montserrat];
+     font-family: 'Montserrat',sans-serif;
      font-weight: 500;
      border-radius: 10px;
      
